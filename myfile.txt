@@ -5,3 +5,5 @@ THIS LINE ADDED THROUGH VS CODE as second commit
 this line added from new ec2 machine (LearningGIT) is a first commit
 
 this line added from VScode is a first commit after new machine is made
+
+this line addedfrom ec2 machine (LearningGit) is a second commit
